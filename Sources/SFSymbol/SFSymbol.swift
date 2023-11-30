@@ -76,6 +76,10 @@ public final class SFSymbol {
         }
     }
 
+    public convenience init(systemName: SystemSymbolName) {
+        self.init(name: systemName as SymbolName)
+    }
+
     public convenience init(systemName: SystemSymbolName, pointSize: CGFloat, weight: SymbolWeight) {
         self.init(name: systemName, pointSize: pointSize, weight: weight, scale: nil)
     }
