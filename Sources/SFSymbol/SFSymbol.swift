@@ -76,24 +76,24 @@ public final class SFSymbol {
         }
     }
 
-    public convenience init(name: SystemSymbolName, pointSize: CGFloat, weight: SymbolWeight) {
-        self.init(name: name, pointSize: pointSize, weight: weight, scale: nil)
+    public convenience init(systemName: SystemSymbolName, pointSize: CGFloat, weight: SymbolWeight) {
+        self.init(name: systemName, pointSize: pointSize, weight: weight, scale: nil)
     }
 
-    public convenience init(name: SystemSymbolName, pointSize: CGFloat, weight: SymbolWeight, scale: SymbolScale?) {
-        self.init(name: name as SymbolName, pointSize: pointSize, weight: weight, scale: scale)
+    public convenience init(systemName: SystemSymbolName, pointSize: CGFloat, weight: SymbolWeight, scale: SymbolScale?) {
+        self.init(name: systemName as SymbolName, pointSize: pointSize, weight: weight, scale: scale)
     }
 
-    public convenience init(name: SystemSymbolName, textStyle: SymbolTextStyle) {
-        self.init(name: name, textStyle: textStyle, scale: nil)
+    public convenience init(systemName: SystemSymbolName, textStyle: SymbolTextStyle) {
+        self.init(name: systemName, textStyle: textStyle, scale: nil)
     }
 
-    public convenience init(name: SystemSymbolName, scale: SymbolScale) {
-        self.init(name: name, textStyle: nil, scale: scale)
+    public convenience init(systemName: SystemSymbolName, scale: SymbolScale) {
+        self.init(name: systemName, textStyle: nil, scale: scale)
     }
 
-    public convenience init(name: SystemSymbolName, textStyle: SymbolTextStyle?, scale: SymbolScale?) {
-        self.init(name: name as SymbolName, textStyle: textStyle, scale: scale)
+    public convenience init(systemName: SystemSymbolName, textStyle: SymbolTextStyle?, scale: SymbolScale?) {
+        self.init(name: systemName as SymbolName, textStyle: textStyle, scale: scale)
     }
 
     @available(macOS 12.0, *)
