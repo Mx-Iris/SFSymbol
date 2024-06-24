@@ -31,8 +31,6 @@ extension SFSymbol {
 
 #endif
 
-import SwiftUI
-
 public final class SFSymbol {
     public let name: SymbolName
 
@@ -209,14 +207,4 @@ public final class SFSymbol {
     }
 
     #endif
-
-    public var image: SwiftUI.Image {
-        #if canImport(AppKit) && !targetEnvironment(macCatalyst)
-        return .init(nsImage: nsImage)
-        #elseif canImport(UIKit)
-        return .init(uiImage: uiImage)
-        #else
-        #error("Unsupported Platform")
-        #endif
-    }
 }
