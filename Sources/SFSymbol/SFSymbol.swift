@@ -2,39 +2,40 @@
 
 import AppKit
 
-extension SFSymbol {
-    public typealias CocoaImage = NSImage
-    public typealias CocoaFont = NSFont
-    public typealias CocoaColor = NSColor
-    public typealias SymbolConfiguration = NSImage.SymbolConfiguration
-    public typealias SymbolWeight = NSFont.Weight
-    public typealias SymbolScale = NSImage.SymbolScale
-    public typealias SymbolTextStyle = NSFont.TextStyle
-}
+/// extension SFSymbol {
+public typealias NSUIImage = NSImage
+public typealias NSUIFont = NSFont
+public typealias NSUIColor = NSColor
+public typealias NSUISymbolConfiguration = NSImage.SymbolConfiguration
+public typealias NSUISymbolWeight = NSFont.Weight
+public typealias NSUISymbolScale = NSImage.SymbolScale
+public typealias NSUISymbolTextStyle = NSFont.TextStyle
+// }
 
 #elseif canImport(UIKit)
 
 import UIKit
 
-extension SFSymbol {
-    public typealias CocoaImage = UIImage
-    public typealias CocoaFont = UIFont
-    public typealias CocoaColor = UIColor
-    public typealias SymbolConfiguration = UIImage.SymbolConfiguration
-    public typealias SymbolWeight = UIImage.SymbolWeight
-    public typealias SymbolScale = UIImage.SymbolScale
-    public typealias SymbolTextStyle = UIFont.TextStyle
-}
+/// extension SFSymbol {
+public typealias NSUIImage = UIImage
+public typealias NSUIFont = UIFont
+public typealias NSUIColor = UIColor
+public typealias NSUISymbolConfiguration = UIImage.SymbolConfiguration
+public typealias NSUISymbolWeight = UIImage.SymbolWeight
+public typealias NSUISymbolScale = UIImage.SymbolScale
+public typealias NSUISymbolTextStyle = UIFont.TextStyle
+// }
 #else
 
 #error("Unsupported Platform")
 
 #endif
 
+
 public final class SFSymbol {
     public let name: SymbolName
 
-    public private(set) var configuration: SymbolConfiguration?
+    public private(set) var configuration: NSUISymbolConfiguration?
 
     public private(set) var variableValue: Double?
 
@@ -42,11 +43,11 @@ public final class SFSymbol {
         self.name = name
     }
 
-    public convenience init(name: SymbolName, pointSize: CGFloat, weight: SymbolWeight) {
+    public convenience init(name: SymbolName, pointSize: CGFloat, weight: NSUISymbolWeight) {
         self.init(name: name, pointSize: pointSize, weight: weight, scale: nil)
     }
 
-    public convenience init(name: SymbolName, pointSize: CGFloat, weight: SymbolWeight, scale: SymbolScale?) {
+    public convenience init(name: SymbolName, pointSize: CGFloat, weight: NSUISymbolWeight, scale: NSUISymbolScale?) {
         self.init(name: name)
         if let scale {
             self.configuration = .init(pointSize: pointSize, weight: weight, scale: scale)
@@ -55,15 +56,15 @@ public final class SFSymbol {
         }
     }
 
-    public convenience init(name: SymbolName, textStyle: SymbolTextStyle) {
+    public convenience init(name: SymbolName, textStyle: NSUISymbolTextStyle) {
         self.init(name: name, textStyle: textStyle, scale: nil)
     }
 
-    public convenience init(name: SymbolName, scale: SymbolScale) {
+    public convenience init(name: SymbolName, scale: NSUISymbolScale) {
         self.init(name: name, textStyle: nil, scale: scale)
     }
 
-    public convenience init(name: SymbolName, textStyle: SymbolTextStyle?, scale: SymbolScale?) {
+    public convenience init(name: SymbolName, textStyle: NSUISymbolTextStyle?, scale: NSUISymbolScale?) {
         self.init(name: name)
         if let textStyle, let scale {
             self.configuration = .init(textStyle: textStyle, scale: scale)
@@ -78,71 +79,71 @@ public final class SFSymbol {
         self.init(name: systemName as SymbolName)
     }
 
-    public convenience init(systemName: SystemSymbolName, pointSize: CGFloat, weight: SymbolWeight) {
+    public convenience init(systemName: SystemSymbolName, pointSize: CGFloat, weight: NSUISymbolWeight) {
         self.init(name: systemName, pointSize: pointSize, weight: weight, scale: nil)
     }
 
-    public convenience init(systemName: SystemSymbolName, pointSize: CGFloat, weight: SymbolWeight, scale: SymbolScale?) {
+    public convenience init(systemName: SystemSymbolName, pointSize: CGFloat, weight: NSUISymbolWeight, scale: NSUISymbolScale?) {
         self.init(name: systemName as SymbolName, pointSize: pointSize, weight: weight, scale: scale)
     }
 
-    public convenience init(systemName: SystemSymbolName, textStyle: SymbolTextStyle) {
+    public convenience init(systemName: SystemSymbolName, textStyle: NSUISymbolTextStyle) {
         self.init(name: systemName, textStyle: textStyle, scale: nil)
     }
 
-    public convenience init(systemName: SystemSymbolName, scale: SymbolScale) {
+    public convenience init(systemName: SystemSymbolName, scale: NSUISymbolScale) {
         self.init(name: systemName, textStyle: nil, scale: scale)
     }
 
-    public convenience init(systemName: SystemSymbolName, textStyle: SymbolTextStyle?, scale: SymbolScale?) {
+    public convenience init(systemName: SystemSymbolName, textStyle: NSUISymbolTextStyle?, scale: NSUISymbolScale?) {
         self.init(name: systemName as SymbolName, textStyle: textStyle, scale: scale)
     }
 
     @available(macOS 12.0, *)
-    public func pointSize(_ pointSize: CGFloat, weight: SymbolWeight) -> Self {
-        let otherConfiguration = SymbolConfiguration(pointSize: pointSize, weight: weight)
+    public func pointSize(_ pointSize: CGFloat, weight: NSUISymbolWeight) -> Self {
+        let otherConfiguration = NSUISymbolConfiguration(pointSize: pointSize, weight: weight)
         configuration = configuration.map { $0.applying(otherConfiguration) } ?? otherConfiguration
         return self
     }
 
     @available(macOS 12.0, *)
-    public func pointSize(_ pointSize: CGFloat, weight: SymbolWeight, scale: SymbolScale) -> Self {
-        let otherConfiguration = SymbolConfiguration(pointSize: pointSize, weight: weight, scale: scale)
+    public func pointSize(_ pointSize: CGFloat, weight: NSUISymbolWeight, scale: NSUISymbolScale) -> Self {
+        let otherConfiguration = NSUISymbolConfiguration(pointSize: pointSize, weight: weight, scale: scale)
         configuration = configuration.map { $0.applying(otherConfiguration) } ?? otherConfiguration
         return self
     }
 
     @available(macOS 12.0, *)
-    public func textStyle(_ textStyle: SymbolTextStyle, scale: SymbolScale) -> Self {
-        let otherConfiguration = SymbolConfiguration(textStyle: textStyle, scale: scale)
+    public func textStyle(_ textStyle: NSUISymbolTextStyle, scale: NSUISymbolScale) -> Self {
+        let otherConfiguration = NSUISymbolConfiguration(textStyle: textStyle, scale: scale)
         configuration = configuration.map { $0.applying(otherConfiguration) } ?? otherConfiguration
         return self
     }
 
     @available(macOS 12.0, *)
-    public func textStyle(_ textStyle: SymbolTextStyle) -> Self {
-        let otherConfiguration = SymbolConfiguration(textStyle: textStyle)
+    public func textStyle(_ textStyle: NSUISymbolTextStyle) -> Self {
+        let otherConfiguration = NSUISymbolConfiguration(textStyle: textStyle)
         configuration = configuration.map { $0.applying(otherConfiguration) } ?? otherConfiguration
         return self
     }
 
     @available(macOS 12.0, iOS 15.0, watchOS 8.0, tvOS 15.0, *)
-    public func hierarchicalColor(_ color: CocoaColor) -> Self {
-        let otherConfiguration = SymbolConfiguration(hierarchicalColor: color)
+    public func hierarchicalColor(_ color: NSUIColor) -> Self {
+        let otherConfiguration = NSUISymbolConfiguration(hierarchicalColor: color)
         configuration = configuration.map { $0.applying(otherConfiguration) } ?? otherConfiguration
         return self
     }
 
     @available(macOS 12.0, iOS 15.0, watchOS 8.0, tvOS 15.0, *)
-    public func paletteColors(_ colors: [CocoaColor]) -> Self {
-        let otherConfiguration = SymbolConfiguration(paletteColors: colors)
+    public func paletteColors(_ colors: [NSUIColor]) -> Self {
+        let otherConfiguration = NSUISymbolConfiguration(paletteColors: colors)
         configuration = configuration.map { $0.applying(otherConfiguration) } ?? otherConfiguration
         return self
     }
 
     @available(macOS 12.0, *)
-    public func scale(_ scale: SymbolScale) -> Self {
-        let otherConfiguration = SymbolConfiguration(scale: scale)
+    public func scale(_ scale: NSUISymbolScale) -> Self {
+        let otherConfiguration = NSUISymbolConfiguration(scale: scale)
         configuration = configuration.map { $0.applying(otherConfiguration) } ?? otherConfiguration
         return self
     }
@@ -151,6 +152,16 @@ public final class SFSymbol {
     public func variableValue(_ variableValue: Double) -> Self {
         self.variableValue = variableValue
         return self
+    }
+
+    public var nsuiImgae: NSUIImage {
+        #if canImport(AppKit) && !targetEnvironment(macCatalyst)
+        return nsImage
+        #endif
+
+        #if canImport(UIKit)
+        return uiImage
+        #endif
     }
 
     #if canImport(AppKit) && !targetEnvironment(macCatalyst)
@@ -207,4 +218,54 @@ public final class SFSymbol {
     }
 
     #endif
+}
+
+extension NSUIImage {
+    public static func symbol(name: SFSymbol.SymbolName) -> NSUIImage {
+        SFSymbol(name: name).nsuiImgae
+    }
+
+    public static func symbol(name: SFSymbol.SymbolName, pointSize: CGFloat, weight: NSUISymbolWeight) -> NSUIImage {
+        SFSymbol(name: name, pointSize: pointSize, weight: weight).nsuiImgae
+    }
+
+    public static func symbol(name: SFSymbol.SymbolName, pointSize: CGFloat, weight: NSUISymbolWeight, scale: NSUISymbolScale?) -> NSUIImage {
+        SFSymbol(name: name, pointSize: pointSize, weight: weight, scale: scale).nsuiImgae
+    }
+
+    public static func symbol(name: SFSymbol.SymbolName, textStyle: NSUISymbolTextStyle) -> NSUIImage {
+        SFSymbol(name: name, textStyle: textStyle).nsuiImgae
+    }
+
+    public static func symbol(name: SFSymbol.SymbolName, scale: NSUISymbolScale) -> NSUIImage {
+        SFSymbol(name: name, scale: scale).nsuiImgae
+    }
+
+    public static func symbol(name: SFSymbol.SymbolName, textStyle: NSUISymbolTextStyle?, scale: NSUISymbolScale?) -> NSUIImage {
+        SFSymbol(name: name, textStyle: textStyle, scale: scale).nsuiImgae
+    }
+
+    public static func symbol(systemName: SFSymbol.SystemSymbolName) -> NSUIImage {
+        SFSymbol(systemName: systemName).nsuiImgae
+    }
+
+    public static func symbol(systemName: SFSymbol.SystemSymbolName, pointSize: CGFloat, weight: NSUISymbolWeight) -> NSUIImage {
+        SFSymbol(systemName: systemName, pointSize: pointSize, weight: weight).nsuiImgae
+    }
+
+    public static func symbol(systemName: SFSymbol.SystemSymbolName, pointSize: CGFloat, weight: NSUISymbolWeight, scale: NSUISymbolScale?) -> NSUIImage {
+        SFSymbol(systemName: systemName, pointSize: pointSize, weight: weight, scale: scale).nsuiImgae
+    }
+
+    public static func symbol(systemName: SFSymbol.SystemSymbolName, textStyle: NSUISymbolTextStyle) -> NSUIImage {
+        SFSymbol(systemName: systemName, textStyle: textStyle).nsuiImgae
+    }
+
+    public static func symbol(systemName: SFSymbol.SystemSymbolName, scale: NSUISymbolScale) -> NSUIImage {
+        SFSymbol(systemName: systemName, scale: scale).nsuiImgae
+    }
+
+    public static func symbol(systemName: SFSymbol.SystemSymbolName, textStyle: NSUISymbolTextStyle?, scale: NSUISymbolScale?) -> NSUIImage {
+        SFSymbol(systemName: systemName, textStyle: textStyle, scale: scale).nsuiImgae
+    }
 }

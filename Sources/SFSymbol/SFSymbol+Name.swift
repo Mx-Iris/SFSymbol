@@ -1,12 +1,5 @@
 import Foundation
 
-
-public protocol SymbolName {
-    var rawValue: String { get }
-    var bundle: Bundle? { get }
-}
-
-
 extension SFSymbol {
     public enum SystemSymbolName: String, CaseIterable, SymbolName {
         /// SF Symbols's name：0.circle
