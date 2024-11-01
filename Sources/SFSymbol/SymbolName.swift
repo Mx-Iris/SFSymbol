@@ -9,3 +9,7 @@ extension SFSymbol {
         var bundle: Bundle? { get }
     }
 }
+
+extension SFSymbol.SymbolName {
+    public var bundle: Bundle? { nil }
+}
