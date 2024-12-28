@@ -2,7 +2,6 @@
 
 import AppKit
 
-/// extension SFSymbol {
 public typealias NSUIImage = NSImage
 public typealias NSUIFont = NSFont
 public typealias NSUIColor = NSColor
@@ -10,13 +9,11 @@ public typealias NSUISymbolConfiguration = NSImage.SymbolConfiguration
 public typealias NSUISymbolWeight = NSFont.Weight
 public typealias NSUISymbolScale = NSImage.SymbolScale
 public typealias NSUISymbolTextStyle = NSFont.TextStyle
-// }
 
 #elseif canImport(UIKit)
 
 import UIKit
 
-/// extension SFSymbol {
 public typealias NSUIImage = UIImage
 public typealias NSUIFont = UIFont
 public typealias NSUIColor = UIColor
@@ -24,13 +21,18 @@ public typealias NSUISymbolConfiguration = UIImage.SymbolConfiguration
 public typealias NSUISymbolWeight = UIImage.SymbolWeight
 public typealias NSUISymbolScale = UIImage.SymbolScale
 public typealias NSUISymbolTextStyle = UIFont.TextStyle
-// }
+
 #else
 
 #error("Unsupported Platform")
 
 #endif
 
+#if canImport(SwiftUI)
+
+import SwiftUI
+
+#endif
 
 public final class SFSymbol {
     public let name: SymbolName
@@ -218,6 +220,20 @@ public final class SFSymbol {
     }
 
     #endif
+
+    #if canImport(SwiftUI)
+
+    public var image: Image {
+        #if canImport(AppKit) && !targetEnvironment(macCatalyst)
+        return Image(nsImage: nsImage)
+        #endif
+
+        #if canImport(UIKit)
+        return Image(uiImage: uiImage)
+        #endif
+    }
+
+    #endif
 }
 
 extension NSUIImage {
@@ -269,3 +285,17 @@ extension NSUIImage {
         SFSymbol(systemName: systemName, textStyle: textStyle, scale: scale).nsuiImgae
     }
 }
+
+#if canImport(SwiftUI)
+
+extension Image {
+    public init(name: SFSymbol.SymbolName) {
+        self.init(name.rawValue, bundle: name.bundle)
+    }
+
+    public init(systemName: SFSymbol.SystemSymbolName) {
+        self.init(systemName: systemName.rawValue)
+    }
+}
+
+#endif
