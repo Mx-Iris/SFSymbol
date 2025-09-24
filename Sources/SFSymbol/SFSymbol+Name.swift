@@ -32727,6 +32727,1438 @@ extension SFSymbol {
         @available(iOS 18.0, macOS 15.0, tvOS 18.0, visionOS 2.0, watchOS 11.0, *)
         case zipperPage = "zipper.page"
 
+        /// SF Symbols's name：bolt.house
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case boltHouse = "bolt.house"
+
+        /// SF Symbols's name：bolt.house.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case boltHouseFill = "bolt.house.fill"
+
+        /// SF Symbols's name：cable.connector.video
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case cableConnectorVideo = "cable.connector.video"
+
+        /// SF Symbols's name：car.top.radiowaves.2.front.left.front.front.right
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case carTopRadiowaves2FrontLeftFrontFrontRight = "car.top.radiowaves.2.front.left.front.front.right"
+
+        /// SF Symbols's name：car.top.radiowaves.2.front.left.front.front.right.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case carTopRadiowaves2FrontLeftFrontFrontRightFill = "car.top.radiowaves.2.front.left.front.front.right.fill"
+
+        /// SF Symbols's name：car.top.radiowaves.2.rear.left.rear.rear.right
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case carTopRadiowaves2RearLeftRearRearRight = "car.top.radiowaves.2.rear.left.rear.rear.right"
+
+        /// SF Symbols's name：car.top.radiowaves.2.rear.left.rear.rear.right.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case carTopRadiowaves2RearLeftRearRearRightFill = "car.top.radiowaves.2.rear.left.rear.rear.right.fill"
+
+        /// SF Symbols's name：character.circle.bn
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleBn = "character.circle.bn"
+
+        /// SF Symbols's name：character.circle.fill.bn
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillBn = "character.circle.fill.bn"
+
+        /// SF Symbols's name：character.circle.fill.gu
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillGu = "character.circle.fill.gu"
+
+        /// SF Symbols's name：character.circle.fill.kn
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillKn = "character.circle.fill.kn"
+
+        /// SF Symbols's name：character.circle.fill.ml
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillMl = "character.circle.fill.ml"
+
+        /// SF Symbols's name：character.circle.fill.mni
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillMni = "character.circle.fill.mni"
+
+        /// SF Symbols's name：character.circle.fill.mr
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillMr = "character.circle.fill.mr"
+
+        /// SF Symbols's name：character.circle.fill.or
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillOr = "character.circle.fill.or"
+
+        /// SF Symbols's name：character.circle.fill.pa
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillPa = "character.circle.fill.pa"
+
+        /// SF Symbols's name：character.circle.fill.sat
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillSat = "character.circle.fill.sat"
+
+        /// SF Symbols's name：character.circle.fill.si
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillSi = "character.circle.fill.si"
+
+        /// SF Symbols's name：character.circle.fill.ta
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillTa = "character.circle.fill.ta"
+
+        /// SF Symbols's name：character.circle.fill.te
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleFillTe = "character.circle.fill.te"
+
+        /// SF Symbols's name：character.circle.gu
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleGu = "character.circle.gu"
+
+        /// SF Symbols's name：character.circle.kn
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleKn = "character.circle.kn"
+
+        /// SF Symbols's name：character.circle.ml
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleMl = "character.circle.ml"
+
+        /// SF Symbols's name：character.circle.mni
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleMni = "character.circle.mni"
+
+        /// SF Symbols's name：character.circle.mr
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleMr = "character.circle.mr"
+
+        /// SF Symbols's name：character.circle.or
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleOr = "character.circle.or"
+
+        /// SF Symbols's name：character.circle.pa
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCirclePa = "character.circle.pa"
+
+        /// SF Symbols's name：character.circle.sat
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleSat = "character.circle.sat"
+
+        /// SF Symbols's name：character.circle.si
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleSi = "character.circle.si"
+
+        /// SF Symbols's name：character.circle.ta
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleTa = "character.circle.ta"
+
+        /// SF Symbols's name：character.circle.te
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterCircleTe = "character.circle.te"
+
+        /// SF Symbols's name：character.square.bn
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareBn = "character.square.bn"
+
+        /// SF Symbols's name：character.square.fill.bn
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillBn = "character.square.fill.bn"
+
+        /// SF Symbols's name：character.square.fill.gu
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillGu = "character.square.fill.gu"
+
+        /// SF Symbols's name：character.square.fill.kn
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillKn = "character.square.fill.kn"
+
+        /// SF Symbols's name：character.square.fill.ml
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillMl = "character.square.fill.ml"
+
+        /// SF Symbols's name：character.square.fill.mni
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillMni = "character.square.fill.mni"
+
+        /// SF Symbols's name：character.square.fill.mr
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillMr = "character.square.fill.mr"
+
+        /// SF Symbols's name：character.square.fill.or
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillOr = "character.square.fill.or"
+
+        /// SF Symbols's name：character.square.fill.pa
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillPa = "character.square.fill.pa"
+
+        /// SF Symbols's name：character.square.fill.sat
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillSat = "character.square.fill.sat"
+
+        /// SF Symbols's name：character.square.fill.si
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillSi = "character.square.fill.si"
+
+        /// SF Symbols's name：character.square.fill.ta
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillTa = "character.square.fill.ta"
+
+        /// SF Symbols's name：character.square.fill.te
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareFillTe = "character.square.fill.te"
+
+        /// SF Symbols's name：character.square.gu
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareGu = "character.square.gu"
+
+        /// SF Symbols's name：character.square.kn
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareKn = "character.square.kn"
+
+        /// SF Symbols's name：character.square.ml
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareMl = "character.square.ml"
+
+        /// SF Symbols's name：character.square.mni
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareMni = "character.square.mni"
+
+        /// SF Symbols's name：character.square.mr
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareMr = "character.square.mr"
+
+        /// SF Symbols's name：character.square.or
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareOr = "character.square.or"
+
+        /// SF Symbols's name：character.square.pa
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquarePa = "character.square.pa"
+
+        /// SF Symbols's name：character.square.sat
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareSat = "character.square.sat"
+
+        /// SF Symbols's name：character.square.si
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareSi = "character.square.si"
+
+        /// SF Symbols's name：character.square.ta
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareTa = "character.square.ta"
+
+        /// SF Symbols's name：character.square.te
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case characterSquareTe = "character.square.te"
+
+        /// SF Symbols's name：dot.car.top.radiowaves.2.rear.left.rear.rear.right
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case dotCarTopRadiowaves2RearLeftRearRearRight = "dot.car.top.radiowaves.2.rear.left.rear.rear.right"
+
+        /// SF Symbols's name：dot.car.top.radiowaves.2.rear.left.rear.rear.right.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case dotCarTopRadiowaves2RearLeftRearRearRightFill = "dot.car.top.radiowaves.2.rear.left.rear.rear.right.fill"
+
+        /// SF Symbols's name：envelope.stack
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case envelopeStack = "envelope.stack"
+
+        /// SF Symbols's name：envelope.stack.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case envelopeStackFill = "envelope.stack.fill"
+
+        /// SF Symbols's name：exclamationmark.message
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case exclamationmarkMessage = "exclamationmark.message"
+
+        /// SF Symbols's name：exclamationmark.message.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case exclamationmarkMessageFill = "exclamationmark.message.fill"
+
+        /// SF Symbols's name：hand.thumbsdown.slash
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case handThumbsdownSlash = "hand.thumbsdown.slash"
+
+        /// SF Symbols's name：hand.thumbsdown.slash.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case handThumbsdownSlashFill = "hand.thumbsdown.slash.fill"
+
+        /// SF Symbols's name：hand.thumbsup.slash
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case handThumbsupSlash = "hand.thumbsup.slash"
+
+        /// SF Symbols's name：hand.thumbsup.slash.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case handThumbsupSlashFill = "hand.thumbsup.slash.fill"
+
+        /// SF Symbols's name：laurel.leading.laurel.trailing
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case laurelLeadingLaurelTrailing = "laurel.leading.laurel.trailing"
+
+        /// SF Symbols's name：memories.badge.checkmark
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case memoriesBadgeCheckmark = "memories.badge.checkmark"
+
+        /// SF Symbols's name：memories.badge.xmark
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case memoriesBadgeXmark = "memories.badge.xmark"
+
+        /// SF Symbols's name：photo.badge.magnifyingglass
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case photoBadgeMagnifyingglass = "photo.badge.magnifyingglass"
+
+        /// SF Symbols's name：photo.badge.magnifyingglass.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case photoBadgeMagnifyingglassFill = "photo.badge.magnifyingglass.fill"
+
+        /// SF Symbols's name：questionmark.message
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case questionmarkMessage = "questionmark.message"
+
+        /// SF Symbols's name：questionmark.message.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case questionmarkMessageFill = "questionmark.message.fill"
+
+        /// SF Symbols's name：rectangle.grid.3x1
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case rectangleGrid3x1 = "rectangle.grid.3x1"
+
+        /// SF Symbols's name：rectangle.grid.3x1.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case rectangleGrid3x1Fill = "rectangle.grid.3x1.fill"
+
+        /// SF Symbols's name：square.and.arrow.down.badge.checkmark
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case squareAndArrowDownBadgeCheckmark = "square.and.arrow.down.badge.checkmark"
+
+        /// SF Symbols's name：square.and.arrow.down.badge.checkmark.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case squareAndArrowDownBadgeCheckmarkFill = "square.and.arrow.down.badge.checkmark.fill"
+
+        /// SF Symbols's name：square.and.arrow.down.badge.xmark
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case squareAndArrowDownBadgeXmark = "square.and.arrow.down.badge.xmark"
+
+        /// SF Symbols's name：square.and.arrow.down.badge.xmark.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case squareAndArrowDownBadgeXmarkFill = "square.and.arrow.down.badge.xmark.fill"
+
+        /// SF Symbols's name：waveform.badge.checkmark
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformBadgeCheckmark = "waveform.badge.checkmark"
+
+        /// SF Symbols's name：waveform.badge.xmark
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformBadgeXmark = "waveform.badge.xmark"
+
+        /// SF Symbols's name：waveform.path.ecg.magnifyingglass
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgMagnifyingglass = "waveform.path.ecg.magnifyingglass"
+
+        /// SF Symbols's name：waveform.path.ecg.text
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgText = "waveform.path.ecg.text"
+
+        /// SF Symbols's name：waveform.path.ecg.text.clipboard
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextClipboard = "waveform.path.ecg.text.clipboard"
+
+        /// SF Symbols's name：waveform.path.ecg.text.clipboard.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextClipboardFill = "waveform.path.ecg.text.clipboard.fill"
+
+        /// SF Symbols's name：waveform.path.ecg.text.clipboard.fill.rtl
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextClipboardFillRtl = "waveform.path.ecg.text.clipboard.fill.rtl"
+
+        /// SF Symbols's name：waveform.path.ecg.text.clipboard.rtl
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextClipboardRtl = "waveform.path.ecg.text.clipboard.rtl"
+
+        /// SF Symbols's name：waveform.path.ecg.text.page
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextPage = "waveform.path.ecg.text.page"
+
+        /// SF Symbols's name：waveform.path.ecg.text.page.fill
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextPageFill = "waveform.path.ecg.text.page.fill"
+
+        /// SF Symbols's name：waveform.path.ecg.text.page.fill.rtl
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextPageFillRtl = "waveform.path.ecg.text.page.fill.rtl"
+
+        /// SF Symbols's name：waveform.path.ecg.text.page.rtl
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextPageRtl = "waveform.path.ecg.text.page.rtl"
+
+        /// SF Symbols's name：waveform.path.ecg.text.rtl
+        @available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *)
+        case waveformPathEcgTextRtl = "waveform.path.ecg.text.rtl"
+
+        /// SF Symbols's name：airpods.gen4
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case airpodsGen4 = "airpods.gen4"
+
+        /// SF Symbols's name：airpods.gen4.chargingcase.wireless
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case airpodsGen4ChargingcaseWireless = "airpods.gen4.chargingcase.wireless"
+
+        /// SF Symbols's name：airpods.gen4.chargingcase.wireless.fill
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case airpodsGen4ChargingcaseWirelessFill = "airpods.gen4.chargingcase.wireless.fill"
+
+        /// SF Symbols's name：airpods.gen4.left
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case airpodsGen4Left = "airpods.gen4.left"
+
+        /// SF Symbols's name：airpods.gen4.right
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case airpodsGen4Right = "airpods.gen4.right"
+
+        /// SF Symbols's name：apple.writing.tools
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case appleWritingTools = "apple.writing.tools"
+
+        /// SF Symbols's name：exclamationmark.triangle.text.page
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case exclamationmarkTriangleTextPage = "exclamationmark.triangle.text.page"
+
+        /// SF Symbols's name：exclamationmark.triangle.text.page.fill
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case exclamationmarkTriangleTextPageFill = "exclamationmark.triangle.text.page.fill"
+
+        /// SF Symbols's name：exclamationmark.triangle.text.page.fill.rtl
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case exclamationmarkTriangleTextPageFillRtl = "exclamationmark.triangle.text.page.fill.rtl"
+
+        /// SF Symbols's name：exclamationmark.triangle.text.page.rtl
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case exclamationmarkTriangleTextPageRtl = "exclamationmark.triangle.text.page.rtl"
+
+        /// SF Symbols's name：figure.seated.side.left.air.distribution.upper.and.middle.and.lower
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case figureSeatedSideLeftAirDistributionUpperAndMiddleAndLower = "figure.seated.side.left.air.distribution.upper.and.middle.and.lower"
+
+        /// SF Symbols's name：figure.seated.side.right.air.distribution.upper.and.middle.and.lower
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case figureSeatedSideRightAirDistributionUpperAndMiddleAndLower = "figure.seated.side.right.air.distribution.upper.and.middle.and.lower"
+
+        /// SF Symbols's name：headphones.dots
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case headphonesDots = "headphones.dots"
+
+        /// SF Symbols's name：info.triangle
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case infoTriangle = "info.triangle"
+
+        /// SF Symbols's name：info.triangle.fill
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case infoTriangleFill = "info.triangle.fill"
+
+        /// SF Symbols's name：inset.filled.rectangle.and.person.filled.circle
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case insetFilledRectangleAndPersonFilledCircle = "inset.filled.rectangle.and.person.filled.circle"
+
+        /// SF Symbols's name：inset.filled.rectangle.and.person.filled.circle.fill
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case insetFilledRectangleAndPersonFilledCircleFill = "inset.filled.rectangle.and.person.filled.circle.fill"
+
+        /// SF Symbols's name：questionmark.message.ar
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case questionmarkMessageAr = "questionmark.message.ar"
+
+        /// SF Symbols's name：questionmark.message.fill.ar
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case questionmarkMessageFillAr = "questionmark.message.fill.ar"
+
+        /// SF Symbols's name：receipt
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case receipt = "receipt"
+
+        /// SF Symbols's name：receipt.fill
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case receiptFill = "receipt.fill"
+
+        /// SF Symbols's name：wand.and.outline
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case wandAndOutline = "wand.and.outline"
+
+        /// SF Symbols's name：wand.and.outline.inverse
+        @available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *)
+        case wandAndOutlineInverse = "wand.and.outline.inverse"
+
+        /// SF Symbols's name：arrow.backward.to.line.compact
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case arrowBackwardToLineCompact = "arrow.backward.to.line.compact"
+
+        /// SF Symbols's name：arrow.forward.to.line.compact
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case arrowForwardToLineCompact = "arrow.forward.to.line.compact"
+
+        /// SF Symbols's name：car.side.arrow.left.and.right
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carSideArrowLeftAndRight = "car.side.arrow.left.and.right"
+
+        /// SF Symbols's name：car.side.arrow.left.and.right.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carSideArrowLeftAndRightFill = "car.side.arrow.left.and.right.fill"
+
+        /// SF Symbols's name：car.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangle = "car.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle"
+
+        /// SF Symbols's name：car.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangleFill = "car.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill"
+
+        /// SF Symbols's name：car.side.rear.and.collision.and.car.side.front.and.arrow.forward
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carSideRearAndCollisionAndCarSideFrontAndArrowForward = "car.side.rear.and.collision.and.car.side.front.and.arrow.forward"
+
+        /// SF Symbols's name：car.side.rear.and.collision.and.car.side.front.and.steeringwheel
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carSideRearAndCollisionAndCarSideFrontAndSteeringwheel = "car.side.rear.and.collision.and.car.side.front.and.steeringwheel"
+
+        /// SF Symbols's name：car.top.lane.dashed.departure.left.slash
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carTopLaneDashedDepartureLeftSlash = "car.top.lane.dashed.departure.left.slash"
+
+        /// SF Symbols's name：car.top.lane.dashed.departure.left.slash.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carTopLaneDashedDepartureLeftSlashFill = "car.top.lane.dashed.departure.left.slash.fill"
+
+        /// SF Symbols's name：car.top.lane.dashed.departure.right.slash
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carTopLaneDashedDepartureRightSlash = "car.top.lane.dashed.departure.right.slash"
+
+        /// SF Symbols's name：car.top.lane.dashed.departure.right.slash.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case carTopLaneDashedDepartureRightSlashFill = "car.top.lane.dashed.departure.right.slash.fill"
+
+        /// SF Symbols's name：character.cursor.ibeam.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamBn = "character.cursor.ibeam.bn"
+
+        /// SF Symbols's name：character.cursor.ibeam.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamGu = "character.cursor.ibeam.gu"
+
+        /// SF Symbols's name：character.cursor.ibeam.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamKn = "character.cursor.ibeam.kn"
+
+        /// SF Symbols's name：character.cursor.ibeam.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamMl = "character.cursor.ibeam.ml"
+
+        /// SF Symbols's name：character.cursor.ibeam.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamMni = "character.cursor.ibeam.mni"
+
+        /// SF Symbols's name：character.cursor.ibeam.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamMr = "character.cursor.ibeam.mr"
+
+        /// SF Symbols's name：character.cursor.ibeam.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamOr = "character.cursor.ibeam.or"
+
+        /// SF Symbols's name：character.cursor.ibeam.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamPa = "character.cursor.ibeam.pa"
+
+        /// SF Symbols's name：character.cursor.ibeam.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamSat = "character.cursor.ibeam.sat"
+
+        /// SF Symbols's name：character.cursor.ibeam.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamSi = "character.cursor.ibeam.si"
+
+        /// SF Symbols's name：character.cursor.ibeam.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamTa = "character.cursor.ibeam.ta"
+
+        /// SF Symbols's name：character.cursor.ibeam.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterCursorIbeamTe = "character.cursor.ibeam.te"
+
+        /// SF Symbols's name：character.magnify.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyBn = "character.magnify.bn"
+
+        /// SF Symbols's name：character.magnify.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyGu = "character.magnify.gu"
+
+        /// SF Symbols's name：character.magnify.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyKn = "character.magnify.kn"
+
+        /// SF Symbols's name：character.magnify.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyMl = "character.magnify.ml"
+
+        /// SF Symbols's name：character.magnify.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyMni = "character.magnify.mni"
+
+        /// SF Symbols's name：character.magnify.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyMr = "character.magnify.mr"
+
+        /// SF Symbols's name：character.magnify.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyOr = "character.magnify.or"
+
+        /// SF Symbols's name：character.magnify.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyPa = "character.magnify.pa"
+
+        /// SF Symbols's name：character.magnify.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifySat = "character.magnify.sat"
+
+        /// SF Symbols's name：character.magnify.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifySi = "character.magnify.si"
+
+        /// SF Symbols's name：character.magnify.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyTa = "character.magnify.ta"
+
+        /// SF Symbols's name：character.magnify.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterMagnifyTe = "character.magnify.te"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparkles = "character.textbox.badge.sparkles"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.ar
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesAr = "character.textbox.badge.sparkles.ar"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesBn = "character.textbox.badge.sparkles.bn"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesGu = "character.textbox.badge.sparkles.gu"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.he
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesHe = "character.textbox.badge.sparkles.he"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.hi
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesHi = "character.textbox.badge.sparkles.hi"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.ja
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesJa = "character.textbox.badge.sparkles.ja"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesKn = "character.textbox.badge.sparkles.kn"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.ko
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesKo = "character.textbox.badge.sparkles.ko"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesMl = "character.textbox.badge.sparkles.ml"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesMni = "character.textbox.badge.sparkles.mni"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesMr = "character.textbox.badge.sparkles.mr"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesOr = "character.textbox.badge.sparkles.or"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesPa = "character.textbox.badge.sparkles.pa"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesSat = "character.textbox.badge.sparkles.sat"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesSi = "character.textbox.badge.sparkles.si"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesTa = "character.textbox.badge.sparkles.ta"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesTe = "character.textbox.badge.sparkles.te"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.th
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesTh = "character.textbox.badge.sparkles.th"
+
+        /// SF Symbols's name：character.textbox.badge.sparkles.zh
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBadgeSparklesZh = "character.textbox.badge.sparkles.zh"
+
+        /// SF Symbols's name：character.textbox.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxBn = "character.textbox.bn"
+
+        /// SF Symbols's name：character.textbox.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxGu = "character.textbox.gu"
+
+        /// SF Symbols's name：character.textbox.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxKn = "character.textbox.kn"
+
+        /// SF Symbols's name：character.textbox.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxMl = "character.textbox.ml"
+
+        /// SF Symbols's name：character.textbox.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxMni = "character.textbox.mni"
+
+        /// SF Symbols's name：character.textbox.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxMr = "character.textbox.mr"
+
+        /// SF Symbols's name：character.textbox.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxOr = "character.textbox.or"
+
+        /// SF Symbols's name：character.textbox.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxPa = "character.textbox.pa"
+
+        /// SF Symbols's name：character.textbox.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxSat = "character.textbox.sat"
+
+        /// SF Symbols's name：character.textbox.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxSi = "character.textbox.si"
+
+        /// SF Symbols's name：character.textbox.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxTa = "character.textbox.ta"
+
+        /// SF Symbols's name：character.textbox.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case characterTextboxTe = "character.textbox.te"
+
+        /// SF Symbols's name：convertible.side.arrow.left.and.right
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case convertibleSideArrowLeftAndRight = "convertible.side.arrow.left.and.right"
+
+        /// SF Symbols's name：convertible.side.arrow.left.and.right.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case convertibleSideArrowLeftAndRightFill = "convertible.side.arrow.left.and.right.fill"
+
+        /// SF Symbols's name：convertible.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case convertibleSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangle = "convertible.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle"
+
+        /// SF Symbols's name：convertible.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case convertibleSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangleFill = "convertible.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill"
+
+        /// SF Symbols's name：cursorarrow.resize.north.east.south.east
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case cursorarrowResizeNorthEastSouthEast = "cursorarrow.resize.north.east.south.east"
+
+        /// SF Symbols's name：electronic.toll.collection
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case electronicTollCollection = "electronic.toll.collection"
+
+        /// SF Symbols's name：electronic.toll.collection.rectangle
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case electronicTollCollectionRectangle = "electronic.toll.collection.rectangle"
+
+        /// SF Symbols's name：electronic.toll.collection.rectangle.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case electronicTollCollectionRectangleFill = "electronic.toll.collection.rectangle.fill"
+
+        /// SF Symbols's name：electronic.toll.collection.rectangle.slash
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case electronicTollCollectionRectangleSlash = "electronic.toll.collection.rectangle.slash"
+
+        /// SF Symbols's name：electronic.toll.collection.rectangle.slash.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case electronicTollCollectionRectangleSlashFill = "electronic.toll.collection.rectangle.slash.fill"
+
+        /// SF Symbols's name：electronic.toll.collection.rectangle.trianglebadge.exclamationmark
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case electronicTollCollectionRectangleTrianglebadgeExclamationmark = "electronic.toll.collection.rectangle.trianglebadge.exclamationmark"
+
+        /// SF Symbols's name：electronic.toll.collection.rectangle.trianglebadge.exclamationmark.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case electronicTollCollectionRectangleTrianglebadgeExclamationmarkFill = "electronic.toll.collection.rectangle.trianglebadge.exclamationmark.fill"
+
+        /// SF Symbols's name：engine.emission.and.drop.2.water.wave.below
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case engineEmissionAndDrop2WaterWaveBelow = "engine.emission.and.drop.2.water.wave.below"
+
+        /// SF Symbols's name：envelope.and.arrow.3.down
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case envelopeAndArrow3Down = "envelope.and.arrow.3.down"
+
+        /// SF Symbols's name：envelope.and.arrow.3.down.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case envelopeAndArrow3DownFill = "envelope.and.arrow.3.down.fill"
+
+        /// SF Symbols's name：flag.pattern.checkered.lc
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case flagPatternCheckeredLc = "flag.pattern.checkered.lc"
+
+        /// SF Symbols's name：fuel.filter.water
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case fuelFilterWater = "fuel.filter.water"
+
+        /// SF Symbols's name：function.ar
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case functionAr = "function.ar"
+
+        /// SF Symbols's name：hydrogen
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case hydrogen = "hydrogen"
+
+        /// SF Symbols's name：hydrogen.circle
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case hydrogenCircle = "hydrogen.circle"
+
+        /// SF Symbols's name：hydrogen.circle.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case hydrogenCircleFill = "hydrogen.circle.fill"
+
+        /// SF Symbols's name：hydrogen.square
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case hydrogenSquare = "hydrogen.square"
+
+        /// SF Symbols's name：hydrogen.square.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case hydrogenSquareFill = "hydrogen.square.fill"
+
+        /// SF Symbols's name：info.circle.text.page
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case infoCircleTextPage = "info.circle.text.page"
+
+        /// SF Symbols's name：info.circle.text.page.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case infoCircleTextPageFill = "info.circle.text.page.fill"
+
+        /// SF Symbols's name：info.circle.text.page.fill.rtl
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case infoCircleTextPageFillRtl = "info.circle.text.page.fill.rtl"
+
+        /// SF Symbols's name：info.circle.text.page.rtl
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case infoCircleTextPageRtl = "info.circle.text.page.rtl"
+
+        /// SF Symbols's name：key.car.side
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case keyCarSide = "key.car.side"
+
+        /// SF Symbols's name：key.car.side.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case keyCarSideFill = "key.car.side.fill"
+
+        /// SF Symbols's name：key.convertible.side
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case keyConvertibleSide = "key.convertible.side"
+
+        /// SF Symbols's name：key.convertible.side.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case keyConvertibleSideFill = "key.convertible.side.fill"
+
+        /// SF Symbols's name：key.suv.side
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case keySuvSide = "key.suv.side"
+
+        /// SF Symbols's name：key.suv.side.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case keySuvSideFill = "key.suv.side.fill"
+
+        /// SF Symbols's name：key.truck.pickup.side
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case keyTruckPickupSide = "key.truck.pickup.side"
+
+        /// SF Symbols's name：key.truck.pickup.side.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case keyTruckPickupSideFill = "key.truck.pickup.side.fill"
+
+        /// SF Symbols's name：long.text.page.and.pencil
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case longTextPageAndPencil = "long.text.page.and.pencil"
+
+        /// SF Symbols's name：long.text.page.and.pencil.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case longTextPageAndPencilFill = "long.text.page.and.pencil.fill"
+
+        /// SF Symbols's name：macmini.gen2
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case macminiGen2 = "macmini.gen2"
+
+        /// SF Symbols's name：macmini.gen2.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case macminiGen2Fill = "macmini.gen2.fill"
+
+        /// SF Symbols's name：macmini.gen3
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case macminiGen3 = "macmini.gen3"
+
+        /// SF Symbols's name：macmini.gen3.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case macminiGen3Fill = "macmini.gen3.fill"
+
+        /// SF Symbols's name：memories.slash
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case memoriesSlash = "memories.slash"
+
+        /// SF Symbols's name：minus.plus.batteryblock.stack.arrowtriangle.left
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case minusPlusBatteryblockStackArrowtriangleLeft = "minus.plus.batteryblock.stack.arrowtriangle.left"
+
+        /// SF Symbols's name：minus.plus.batteryblock.stack.arrowtriangle.left.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case minusPlusBatteryblockStackArrowtriangleLeftFill = "minus.plus.batteryblock.stack.arrowtriangle.left.fill"
+
+        /// SF Symbols's name：minus.plus.batteryblock.stack.arrowtriangle.right
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case minusPlusBatteryblockStackArrowtriangleRight = "minus.plus.batteryblock.stack.arrowtriangle.right"
+
+        /// SF Symbols's name：minus.plus.batteryblock.stack.arrowtriangle.right.and.arrowtriangle.left
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case minusPlusBatteryblockStackArrowtriangleRightAndArrowtriangleLeft = "minus.plus.batteryblock.stack.arrowtriangle.right.and.arrowtriangle.left"
+
+        /// SF Symbols's name：minus.plus.batteryblock.stack.arrowtriangle.right.and.arrowtriangle.left.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case minusPlusBatteryblockStackArrowtriangleRightAndArrowtriangleLeftFill = "minus.plus.batteryblock.stack.arrowtriangle.right.and.arrowtriangle.left.fill"
+
+        /// SF Symbols's name：minus.plus.batteryblock.stack.arrowtriangle.right.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case minusPlusBatteryblockStackArrowtriangleRightFill = "minus.plus.batteryblock.stack.arrowtriangle.right.fill"
+
+        /// SF Symbols's name：nosign.badge.clock
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case nosignBadgeClock = "nosign.badge.clock"
+
+        /// SF Symbols's name：person.checkmark.and.xmark
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case personCheckmarkAndXmark = "person.checkmark.and.xmark"
+
+        /// SF Symbols's name：person.checkmark.and.xmark.rtl
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case personCheckmarkAndXmarkRtl = "person.checkmark.and.xmark.rtl"
+
+        /// SF Symbols's name：person.fill.checkmark.and.xmark
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case personFillCheckmarkAndXmark = "person.fill.checkmark.and.xmark"
+
+        /// SF Symbols's name：person.fill.checkmark.and.xmark.rtl
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case personFillCheckmarkAndXmarkRtl = "person.fill.checkmark.and.xmark.rtl"
+
+        /// SF Symbols's name：photo.badge.shield.exclamationmark
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case photoBadgeShieldExclamationmark = "photo.badge.shield.exclamationmark"
+
+        /// SF Symbols's name：photo.badge.shield.exclamationmark.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case photoBadgeShieldExclamationmarkFill = "photo.badge.shield.exclamationmark.fill"
+
+        /// SF Symbols's name：photo.trianglebadge.exclamationmark
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case photoTrianglebadgeExclamationmark = "photo.trianglebadge.exclamationmark"
+
+        /// SF Symbols's name：photo.trianglebadge.exclamationmark.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case photoTrianglebadgeExclamationmarkFill = "photo.trianglebadge.exclamationmark.fill"
+
+        /// SF Symbols's name：pi
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case pi = "pi"
+
+        /// SF Symbols's name：pi.circle
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case piCircle = "pi.circle"
+
+        /// SF Symbols's name：pi.circle.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case piCircleFill = "pi.circle.fill"
+
+        /// SF Symbols's name：pi.square
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case piSquare = "pi.square"
+
+        /// SF Symbols's name：pi.square.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case piSquareFill = "pi.square.fill"
+
+        /// SF Symbols's name：plus.minus.capsule
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case plusMinusCapsule = "plus.minus.capsule"
+
+        /// SF Symbols's name：plus.minus.capsule.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case plusMinusCapsuleFill = "plus.minus.capsule.fill"
+
+        /// SF Symbols's name：repeat.badge.xmark.circle.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case repeatBadgeXmarkCircleFill = "repeat.badge.xmark.circle.fill"
+
+        /// SF Symbols's name：road.lane.arrowtriangle.2.outward
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case roadLaneArrowtriangle2Outward = "road.lane.arrowtriangle.2.outward"
+
+        /// SF Symbols's name：robotic.vacuum.and.arrowtriangle.up
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case roboticVacuumAndArrowtriangleUp = "robotic.vacuum.and.arrowtriangle.up"
+
+        /// SF Symbols's name：robotic.vacuum.and.arrowtriangle.up.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case roboticVacuumAndArrowtriangleUpFill = "robotic.vacuum.and.arrowtriangle.up.fill"
+
+        /// SF Symbols's name：robotic.vacuum.and.ellipsis
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case roboticVacuumAndEllipsis = "robotic.vacuum.and.ellipsis"
+
+        /// SF Symbols's name：robotic.vacuum.and.ellipsis.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case roboticVacuumAndEllipsisFill = "robotic.vacuum.and.ellipsis.fill"
+
+        /// SF Symbols's name：spoon.serving
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case spoonServing = "spoon.serving"
+
+        /// SF Symbols's name：square.and.arrow.up.badge.checkmark
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case squareAndArrowUpBadgeCheckmark = "square.and.arrow.up.badge.checkmark"
+
+        /// SF Symbols's name：square.and.arrow.up.badge.checkmark.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case squareAndArrowUpBadgeCheckmarkFill = "square.and.arrow.up.badge.checkmark.fill"
+
+        /// SF Symbols's name：squareshape.split.2x2.dotted.inside
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case squareshapeSplit2x2DottedInside = "squareshape.split.2x2.dotted.inside"
+
+        /// SF Symbols's name：squareshape.split.2x2.dotted.inside.and.outside
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case squareshapeSplit2x2DottedInsideAndOutside = "squareshape.split.2x2.dotted.inside.and.outside"
+
+        /// SF Symbols's name：squareshape.split.2x2.dotted.outside
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case squareshapeSplit2x2DottedOutside = "squareshape.split.2x2.dotted.outside"
+
+        /// SF Symbols's name：star.hexagon
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case starHexagon = "star.hexagon"
+
+        /// SF Symbols's name：star.hexagon.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case starHexagonFill = "star.hexagon.fill"
+
+        /// SF Symbols's name：suv.side.arrow.left.and.right
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case suvSideArrowLeftAndRight = "suv.side.arrow.left.and.right"
+
+        /// SF Symbols's name：suv.side.arrow.left.and.right.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case suvSideArrowLeftAndRightFill = "suv.side.arrow.left.and.right.fill"
+
+        /// SF Symbols's name：suv.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case suvSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangle = "suv.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle"
+
+        /// SF Symbols's name：suv.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case suvSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangleFill = "suv.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill"
+
+        /// SF Symbols's name：textformat.alt.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltBn = "textformat.alt.bn"
+
+        /// SF Symbols's name：textformat.alt.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltGu = "textformat.alt.gu"
+
+        /// SF Symbols's name：textformat.alt.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltKn = "textformat.alt.kn"
+
+        /// SF Symbols's name：textformat.alt.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltMl = "textformat.alt.ml"
+
+        /// SF Symbols's name：textformat.alt.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltMni = "textformat.alt.mni"
+
+        /// SF Symbols's name：textformat.alt.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltMr = "textformat.alt.mr"
+
+        /// SF Symbols's name：textformat.alt.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltOr = "textformat.alt.or"
+
+        /// SF Symbols's name：textformat.alt.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltPa = "textformat.alt.pa"
+
+        /// SF Symbols's name：textformat.alt.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltSat = "textformat.alt.sat"
+
+        /// SF Symbols's name：textformat.alt.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltSi = "textformat.alt.si"
+
+        /// SF Symbols's name：textformat.alt.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltTa = "textformat.alt.ta"
+
+        /// SF Symbols's name：textformat.alt.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatAltTe = "textformat.alt.te"
+
+        /// SF Symbols's name：textformat.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatBn = "textformat.bn"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightBn = "textformat.characters.arrow.left.and.right.bn"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightGu = "textformat.characters.arrow.left.and.right.gu"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightKn = "textformat.characters.arrow.left.and.right.kn"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightMl = "textformat.characters.arrow.left.and.right.ml"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightMni = "textformat.characters.arrow.left.and.right.mni"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightMr = "textformat.characters.arrow.left.and.right.mr"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightOr = "textformat.characters.arrow.left.and.right.or"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightPa = "textformat.characters.arrow.left.and.right.pa"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightSat = "textformat.characters.arrow.left.and.right.sat"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightSi = "textformat.characters.arrow.left.and.right.si"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightTa = "textformat.characters.arrow.left.and.right.ta"
+
+        /// SF Symbols's name：textformat.characters.arrow.left.and.right.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersArrowLeftAndRightTe = "textformat.characters.arrow.left.and.right.te"
+
+        /// SF Symbols's name：textformat.characters.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersBn = "textformat.characters.bn"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineBn = "textformat.characters.dottedunderline.bn"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineGu = "textformat.characters.dottedunderline.gu"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineKn = "textformat.characters.dottedunderline.kn"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineMl = "textformat.characters.dottedunderline.ml"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineMni = "textformat.characters.dottedunderline.mni"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineMr = "textformat.characters.dottedunderline.mr"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineOr = "textformat.characters.dottedunderline.or"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlinePa = "textformat.characters.dottedunderline.pa"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineSat = "textformat.characters.dottedunderline.sat"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineSi = "textformat.characters.dottedunderline.si"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineTa = "textformat.characters.dottedunderline.ta"
+
+        /// SF Symbols's name：textformat.characters.dottedunderline.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersDottedunderlineTe = "textformat.characters.dottedunderline.te"
+
+        /// SF Symbols's name：textformat.characters.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersGu = "textformat.characters.gu"
+
+        /// SF Symbols's name：textformat.characters.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersKn = "textformat.characters.kn"
+
+        /// SF Symbols's name：textformat.characters.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersMl = "textformat.characters.ml"
+
+        /// SF Symbols's name：textformat.characters.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersMni = "textformat.characters.mni"
+
+        /// SF Symbols's name：textformat.characters.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersMr = "textformat.characters.mr"
+
+        /// SF Symbols's name：textformat.characters.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersOr = "textformat.characters.or"
+
+        /// SF Symbols's name：textformat.characters.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersPa = "textformat.characters.pa"
+
+        /// SF Symbols's name：textformat.characters.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersSat = "textformat.characters.sat"
+
+        /// SF Symbols's name：textformat.characters.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersSi = "textformat.characters.si"
+
+        /// SF Symbols's name：textformat.characters.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersTa = "textformat.characters.ta"
+
+        /// SF Symbols's name：textformat.characters.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatCharactersTe = "textformat.characters.te"
+
+        /// SF Symbols's name：textformat.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatGu = "textformat.gu"
+
+        /// SF Symbols's name：textformat.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatKn = "textformat.kn"
+
+        /// SF Symbols's name：textformat.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatMl = "textformat.ml"
+
+        /// SF Symbols's name：textformat.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatMni = "textformat.mni"
+
+        /// SF Symbols's name：textformat.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatMr = "textformat.mr"
+
+        /// SF Symbols's name：textformat.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatOr = "textformat.or"
+
+        /// SF Symbols's name：textformat.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatPa = "textformat.pa"
+
+        /// SF Symbols's name：textformat.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSat = "textformat.sat"
+
+        /// SF Symbols's name：textformat.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSi = "textformat.si"
+
+        /// SF Symbols's name：textformat.subscript.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptBn = "textformat.subscript.bn"
+
+        /// SF Symbols's name：textformat.subscript.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptGu = "textformat.subscript.gu"
+
+        /// SF Symbols's name：textformat.subscript.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptKn = "textformat.subscript.kn"
+
+        /// SF Symbols's name：textformat.subscript.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptMl = "textformat.subscript.ml"
+
+        /// SF Symbols's name：textformat.subscript.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptMni = "textformat.subscript.mni"
+
+        /// SF Symbols's name：textformat.subscript.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptMr = "textformat.subscript.mr"
+
+        /// SF Symbols's name：textformat.subscript.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptOr = "textformat.subscript.or"
+
+        /// SF Symbols's name：textformat.subscript.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptPa = "textformat.subscript.pa"
+
+        /// SF Symbols's name：textformat.subscript.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptSat = "textformat.subscript.sat"
+
+        /// SF Symbols's name：textformat.subscript.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptSi = "textformat.subscript.si"
+
+        /// SF Symbols's name：textformat.subscript.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptTa = "textformat.subscript.ta"
+
+        /// SF Symbols's name：textformat.subscript.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSubscriptTe = "textformat.subscript.te"
+
+        /// SF Symbols's name：textformat.superscript.bn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptBn = "textformat.superscript.bn"
+
+        /// SF Symbols's name：textformat.superscript.gu
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptGu = "textformat.superscript.gu"
+
+        /// SF Symbols's name：textformat.superscript.kn
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptKn = "textformat.superscript.kn"
+
+        /// SF Symbols's name：textformat.superscript.ml
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptMl = "textformat.superscript.ml"
+
+        /// SF Symbols's name：textformat.superscript.mni
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptMni = "textformat.superscript.mni"
+
+        /// SF Symbols's name：textformat.superscript.mr
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptMr = "textformat.superscript.mr"
+
+        /// SF Symbols's name：textformat.superscript.or
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptOr = "textformat.superscript.or"
+
+        /// SF Symbols's name：textformat.superscript.pa
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptPa = "textformat.superscript.pa"
+
+        /// SF Symbols's name：textformat.superscript.sat
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptSat = "textformat.superscript.sat"
+
+        /// SF Symbols's name：textformat.superscript.si
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptSi = "textformat.superscript.si"
+
+        /// SF Symbols's name：textformat.superscript.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptTa = "textformat.superscript.ta"
+
+        /// SF Symbols's name：textformat.superscript.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatSuperscriptTe = "textformat.superscript.te"
+
+        /// SF Symbols's name：textformat.ta
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatTa = "textformat.ta"
+
+        /// SF Symbols's name：textformat.te
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case textformatTe = "textformat.te"
+
+        /// SF Symbols's name：truck.pickup.side.arrow.left.and.right
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case truckPickupSideArrowLeftAndRight = "truck.pickup.side.arrow.left.and.right"
+
+        /// SF Symbols's name：truck.pickup.side.arrow.left.and.right.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case truckPickupSideArrowLeftAndRightFill = "truck.pickup.side.arrow.left.and.right.fill"
+
+        /// SF Symbols's name：truck.pickup.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case truckPickupSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangle = "truck.pickup.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle"
+
+        /// SF Symbols's name：truck.pickup.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill
+        @available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *)
+        case truckPickupSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangleFill = "truck.pickup.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill"
+
+        /// SF Symbols's name：apple.intelligence.badge.xmark
+        @available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *)
+        case appleIntelligenceBadgeXmark = "apple.intelligence.badge.xmark"
+
+        /// SF Symbols's name：beats.powerbeats.pro.2
+        @available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *)
+        case beatsPowerbeatsPro2 = "beats.powerbeats.pro.2"
+
+        /// SF Symbols's name：beats.powerbeats.pro.2.chargingcase
+        @available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *)
+        case beatsPowerbeatsPro2Chargingcase = "beats.powerbeats.pro.2.chargingcase"
+
+        /// SF Symbols's name：beats.powerbeats.pro.2.chargingcase.fill
+        @available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *)
+        case beatsPowerbeatsPro2ChargingcaseFill = "beats.powerbeats.pro.2.chargingcase.fill"
+
+        /// SF Symbols's name：beats.powerbeats.pro.2.left
+        @available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *)
+        case beatsPowerbeatsPro2Left = "beats.powerbeats.pro.2.left"
+
+        /// SF Symbols's name：beats.powerbeats.pro.2.right
+        @available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *)
+        case beatsPowerbeatsPro2Right = "beats.powerbeats.pro.2.right"
+
         public static var allCases: [Self] {
             var allCases: [Self] = []
 
@@ -65452,6 +66884,1438 @@ extension SFSymbol {
 
             if #available(iOS 18.0, macOS 15.0, tvOS 18.0, visionOS 2.0, watchOS 11.0, *) {
                 allCases.append(Self.zipperPage)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.boltHouse)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.boltHouseFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.cableConnectorVideo)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.carTopRadiowaves2FrontLeftFrontFrontRight)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.carTopRadiowaves2FrontLeftFrontFrontRightFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.carTopRadiowaves2RearLeftRearRearRight)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.carTopRadiowaves2RearLeftRearRearRightFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleBn)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillBn)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillGu)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillKn)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillMl)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillMni)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillMr)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillOr)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillPa)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillSat)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillSi)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillTa)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleFillTe)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleGu)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleKn)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleMl)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleMni)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleMr)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleOr)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCirclePa)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleSat)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleSi)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleTa)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterCircleTe)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareBn)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillBn)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillGu)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillKn)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillMl)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillMni)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillMr)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillOr)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillPa)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillSat)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillSi)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillTa)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareFillTe)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareGu)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareKn)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareMl)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareMni)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareMr)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareOr)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquarePa)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareSat)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareSi)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareTa)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.characterSquareTe)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.dotCarTopRadiowaves2RearLeftRearRearRight)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.dotCarTopRadiowaves2RearLeftRearRearRightFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.envelopeStack)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.envelopeStackFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.exclamationmarkMessage)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.exclamationmarkMessageFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.handThumbsdownSlash)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.handThumbsdownSlashFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.handThumbsupSlash)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.handThumbsupSlashFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.laurelLeadingLaurelTrailing)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.memoriesBadgeCheckmark)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.memoriesBadgeXmark)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.photoBadgeMagnifyingglass)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.photoBadgeMagnifyingglassFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.questionmarkMessage)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.questionmarkMessageFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.rectangleGrid3x1)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.rectangleGrid3x1Fill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.squareAndArrowDownBadgeCheckmark)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.squareAndArrowDownBadgeCheckmarkFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.squareAndArrowDownBadgeXmark)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.squareAndArrowDownBadgeXmarkFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformBadgeCheckmark)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformBadgeXmark)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgMagnifyingglass)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgText)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextClipboard)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextClipboardFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextClipboardFillRtl)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextClipboardRtl)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextPage)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextPageFill)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextPageFillRtl)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextPageRtl)
+            }
+
+            if #available(iOS 18.1, macOS 15.1, tvOS 18.1, visionOS 2.1, watchOS 11.1, *) {
+                allCases.append(Self.waveformPathEcgTextRtl)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.airpodsGen4)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.airpodsGen4ChargingcaseWireless)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.airpodsGen4ChargingcaseWirelessFill)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.airpodsGen4Left)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.airpodsGen4Right)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.appleWritingTools)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.exclamationmarkTriangleTextPage)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.exclamationmarkTriangleTextPageFill)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.exclamationmarkTriangleTextPageFillRtl)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.exclamationmarkTriangleTextPageRtl)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.figureSeatedSideLeftAirDistributionUpperAndMiddleAndLower)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.figureSeatedSideRightAirDistributionUpperAndMiddleAndLower)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.headphonesDots)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.infoTriangle)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.infoTriangleFill)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.insetFilledRectangleAndPersonFilledCircle)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.insetFilledRectangleAndPersonFilledCircleFill)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.questionmarkMessageAr)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.questionmarkMessageFillAr)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.receipt)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.receiptFill)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.wandAndOutline)
+            }
+
+            if #available(iOS 18.2, macOS 15.2, tvOS 18.2, visionOS 2.2, watchOS 11.2, *) {
+                allCases.append(Self.wandAndOutlineInverse)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.arrowBackwardToLineCompact)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.arrowForwardToLineCompact)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carSideArrowLeftAndRight)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carSideArrowLeftAndRightFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangle)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangleFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carSideRearAndCollisionAndCarSideFrontAndArrowForward)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carSideRearAndCollisionAndCarSideFrontAndSteeringwheel)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carTopLaneDashedDepartureLeftSlash)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carTopLaneDashedDepartureLeftSlashFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carTopLaneDashedDepartureRightSlash)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.carTopLaneDashedDepartureRightSlashFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterCursorIbeamTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifySat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifySi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterMagnifyTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparkles)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesAr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesHe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesHi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesJa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesKo)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesTh)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBadgeSparklesZh)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.characterTextboxTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.convertibleSideArrowLeftAndRight)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.convertibleSideArrowLeftAndRightFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.convertibleSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangle)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.convertibleSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangleFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.cursorarrowResizeNorthEastSouthEast)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.electronicTollCollection)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.electronicTollCollectionRectangle)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.electronicTollCollectionRectangleFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.electronicTollCollectionRectangleSlash)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.electronicTollCollectionRectangleSlashFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.electronicTollCollectionRectangleTrianglebadgeExclamationmark)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.electronicTollCollectionRectangleTrianglebadgeExclamationmarkFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.engineEmissionAndDrop2WaterWaveBelow)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.envelopeAndArrow3Down)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.envelopeAndArrow3DownFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.flagPatternCheckeredLc)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.fuelFilterWater)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.functionAr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.hydrogen)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.hydrogenCircle)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.hydrogenCircleFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.hydrogenSquare)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.hydrogenSquareFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.infoCircleTextPage)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.infoCircleTextPageFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.infoCircleTextPageFillRtl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.infoCircleTextPageRtl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.keyCarSide)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.keyCarSideFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.keyConvertibleSide)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.keyConvertibleSideFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.keySuvSide)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.keySuvSideFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.keyTruckPickupSide)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.keyTruckPickupSideFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.longTextPageAndPencil)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.longTextPageAndPencilFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.macminiGen2)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.macminiGen2Fill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.macminiGen3)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.macminiGen3Fill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.memoriesSlash)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.minusPlusBatteryblockStackArrowtriangleLeft)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.minusPlusBatteryblockStackArrowtriangleLeftFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.minusPlusBatteryblockStackArrowtriangleRight)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.minusPlusBatteryblockStackArrowtriangleRightAndArrowtriangleLeft)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.minusPlusBatteryblockStackArrowtriangleRightAndArrowtriangleLeftFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.minusPlusBatteryblockStackArrowtriangleRightFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.nosignBadgeClock)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.personCheckmarkAndXmark)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.personCheckmarkAndXmarkRtl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.personFillCheckmarkAndXmark)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.personFillCheckmarkAndXmarkRtl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.photoBadgeShieldExclamationmark)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.photoBadgeShieldExclamationmarkFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.photoTrianglebadgeExclamationmark)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.photoTrianglebadgeExclamationmarkFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.pi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.piCircle)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.piCircleFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.piSquare)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.piSquareFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.plusMinusCapsule)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.plusMinusCapsuleFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.repeatBadgeXmarkCircleFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.roadLaneArrowtriangle2Outward)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.roboticVacuumAndArrowtriangleUp)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.roboticVacuumAndArrowtriangleUpFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.roboticVacuumAndEllipsis)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.roboticVacuumAndEllipsisFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.spoonServing)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.squareAndArrowUpBadgeCheckmark)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.squareAndArrowUpBadgeCheckmarkFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.squareshapeSplit2x2DottedInside)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.squareshapeSplit2x2DottedInsideAndOutside)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.squareshapeSplit2x2DottedOutside)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.starHexagon)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.starHexagonFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.suvSideArrowLeftAndRight)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.suvSideArrowLeftAndRightFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.suvSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangle)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.suvSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangleFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatAltTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersArrowLeftAndRightTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlinePa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersDottedunderlineTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatCharactersTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSubscriptTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptBn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptGu)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptKn)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptMl)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptMni)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptMr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptOr)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptPa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptSat)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptSi)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatSuperscriptTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatTa)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.textformatTe)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.truckPickupSideArrowLeftAndRight)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.truckPickupSideArrowLeftAndRightFill)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.truckPickupSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangle)
+            }
+
+            if #available(iOS 18.4, macOS 15.4, tvOS 18.4, visionOS 2.4, watchOS 11.4, *) {
+                allCases.append(Self.truckPickupSideHillDownAndGaugeOpenWithLinesNeedle25percentAndArrowtriangleFill)
+            }
+
+            if #available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *) {
+                allCases.append(Self.appleIntelligenceBadgeXmark)
+            }
+
+            if #available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *) {
+                allCases.append(Self.beatsPowerbeatsPro2)
+            }
+
+            if #available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *) {
+                allCases.append(Self.beatsPowerbeatsPro2Chargingcase)
+            }
+
+            if #available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *) {
+                allCases.append(Self.beatsPowerbeatsPro2ChargingcaseFill)
+            }
+
+            if #available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *) {
+                allCases.append(Self.beatsPowerbeatsPro2Left)
+            }
+
+            if #available(iOS 18.5, macOS 15.5, tvOS 18.5, visionOS 2.5, watchOS 11.5, *) {
+                allCases.append(Self.beatsPowerbeatsPro2Right)
             }
 
             return allCases
