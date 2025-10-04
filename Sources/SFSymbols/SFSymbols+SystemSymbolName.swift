@@ -1,6 +1,6 @@
 import Foundation
 
-extension SFSymbol {
+extension SFSymbols {
     public enum SystemSymbolName: String, CaseIterable, SymbolName {
 
         /// SF Symbols's name：0.circle
